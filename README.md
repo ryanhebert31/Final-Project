@@ -1,7 +1,7 @@
 # AI Final Program: Emily & Ryan
 
 This program implements a web crawler, scraper, and cosine similarity algorithm to act as a search
-engine for the domain https://www.muhlenberg.edu/.
+engine for the domain https://www.muhlenberg.edu/, as well as a testing environment for our consine similarity algorithm.
 
 ## Installation & Usage
 
